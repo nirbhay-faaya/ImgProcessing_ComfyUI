@@ -1,0 +1,14 @@
+[project]
+name = "imgprocessing_comfyui"
+description = "Custom Image processing ComfyUI Nodes"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/nirbhay-faaya/ImgProcessing_ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ImgProcessing_ComfyUI"
+Icon = ""
